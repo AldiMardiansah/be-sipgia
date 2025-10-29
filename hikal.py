@@ -1,0 +1,1 @@
+print("kal lusyu UwU")
