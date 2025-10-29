@@ -1,1 +1,1 @@
-print("kal lusyu UwU")
+print("kal lusyu UwU KAYA BAGONG")
